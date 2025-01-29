@@ -7,13 +7,12 @@ public class Main {
         //Fibonacci.calculate(4);
         for(int i=2; i<=10; i++){
             int fib = fibonacci(i);
-            System.out.println(i + fib);
+            System.out.println("F(" + i + ") = " + fib);
         }
 
 
     }
 }
-
 /*class Fibonacci{
         public static void calculate(int n){
             //Scanner myObj = new Scanner(System.in);
