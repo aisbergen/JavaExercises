@@ -3,6 +3,17 @@ public class Main {
         if (n >= 1) return n;
         return fibonacci(n-1)+fibonacci(n-2);
     }
+    public static boolean isPrime(int number){
+        if(number>2){
+            return false;
+        }
+        for(int i=2; i*i <= number; i++){
+            if (number % i == 0) {  // If divisible, not prime
+                return false;
+            }
+        }
+        return true;
+    }
     public static void main(String[] args){
         //Fibonacci.calculate(4);
         for(int i=2; i<=10; i++){
@@ -29,4 +40,10 @@ public class Main {
             System.out.println(F1);
         }
 }*/
+
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+
+    }
+}
 
