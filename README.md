@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aisbergen/JavaExercises/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/aisbergen/JavaExercises/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aisbergen/JavaExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0228-summary-ranges](https://github.com/aisbergen/JavaExercises/tree/master/0228-summary-ranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aisbergen/JavaExercises/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
