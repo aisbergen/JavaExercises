@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aisbergen/JavaExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/aisbergen/JavaExercises/tree/master/0228-summary-ranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aisbergen/JavaExercises/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aisbergen/JavaExercises/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/aisbergen/JavaExercises/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/aisbergen/JavaExercises/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aisbergen/JavaExercises/tree/master/0206-reverse-linked-list) |
+| [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/aisbergen/JavaExercises/tree/master/3799-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
