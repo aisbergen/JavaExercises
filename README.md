@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aisbergen/JavaExercises/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aisbergen/JavaExercises/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/aisbergen/JavaExercises/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/aisbergen/JavaExercises/tree/master/0203-remove-linked-list-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aisbergen/JavaExercises/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aisbergen/JavaExercises/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aisbergen/JavaExercises/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/aisbergen/JavaExercises/tree/master/0203-remove-linked-list-elements) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aisbergen/JavaExercises/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/aisbergen/JavaExercises/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
