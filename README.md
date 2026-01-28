@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aisbergen/JavaExercises/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aisbergen/JavaExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/aisbergen/JavaExercises/tree/master/0228-summary-ranges) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/aisbergen/JavaExercises/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aisbergen/JavaExercises/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aisbergen/JavaExercises/tree/master/3799-unique-3-digit-even-numbers) |
