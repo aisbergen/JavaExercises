@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aisbergen/JavaExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/aisbergen/JavaExercises/tree/master/0228-summary-ranges) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aisbergen/JavaExercises/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0929-unique-email-addresses](https://github.com/aisbergen/JavaExercises/tree/master/0929-unique-email-addresses) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aisbergen/JavaExercises/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aisbergen/JavaExercises/tree/master/3799-unique-3-digit-even-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aisbergen/JavaExercises/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/aisbergen/JavaExercises/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/aisbergen/JavaExercises/tree/master/0443-string-compression) |
+| [0929-unique-email-addresses](https://github.com/aisbergen/JavaExercises/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aisbergen/JavaExercises/tree/master/0036-valid-sudoku) |
 | [0389-find-the-difference](https://github.com/aisbergen/JavaExercises/tree/master/0389-find-the-difference) |
+| [0929-unique-email-addresses](https://github.com/aisbergen/JavaExercises/tree/master/0929-unique-email-addresses) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aisbergen/JavaExercises/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
