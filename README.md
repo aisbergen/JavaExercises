@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aisbergen/JavaExercises/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/aisbergen/JavaExercises/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/aisbergen/JavaExercises/tree/master/0046-permutations) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aisbergen/JavaExercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aisbergen/JavaExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/aisbergen/JavaExercises/tree/master/0228-summary-ranges) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aisbergen/JavaExercises/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aisbergen/JavaExercises/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aisbergen/JavaExercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
