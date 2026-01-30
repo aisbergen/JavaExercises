@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aisbergen/JavaExercises/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/aisbergen/JavaExercises/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/aisbergen/JavaExercises/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/aisbergen/JavaExercises/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/aisbergen/JavaExercises/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aisbergen/JavaExercises/tree/master/0389-find-the-difference) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aisbergen/JavaExercises/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
