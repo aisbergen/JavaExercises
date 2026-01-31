@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aisbergen/JavaExercises/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/aisbergen/JavaExercises/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/aisbergen/JavaExercises/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/aisbergen/JavaExercises/tree/master/0389-find-the-difference) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aisbergen/JavaExercises/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/aisbergen/JavaExercises/tree/master/0036-valid-sudoku) |
 | [0389-find-the-difference](https://github.com/aisbergen/JavaExercises/tree/master/0389-find-the-difference) |
 | [0929-unique-email-addresses](https://github.com/aisbergen/JavaExercises/tree/master/0929-unique-email-addresses) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aisbergen/JavaExercises/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aisbergen/JavaExercises/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
