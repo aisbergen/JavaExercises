@@ -101,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aisbergen/JavaExercises/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aisbergen/JavaExercises/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
