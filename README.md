@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/aisbergen/JavaExercises/tree/master/0228-summary-ranges) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aisbergen/JavaExercises/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0929-unique-email-addresses](https://github.com/aisbergen/JavaExercises/tree/master/0929-unique-email-addresses) |
+| [0994-rotting-oranges](https://github.com/aisbergen/JavaExercises/tree/master/0994-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aisbergen/JavaExercises/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1582-design-browser-history](https://github.com/aisbergen/JavaExercises/tree/master/1582-design-browser-history) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aisbergen/JavaExercises/tree/master/3799-unique-3-digit-even-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aisbergen/JavaExercises/tree/master/0036-valid-sudoku) |
+| [0994-rotting-oranges](https://github.com/aisbergen/JavaExercises/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aisbergen/JavaExercises/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/aisbergen/JavaExercises/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
